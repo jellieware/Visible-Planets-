@@ -614,7 +614,7 @@ int main(void)
     );
 
     printf(
-        "%-10s | %-8s | %-9s | %-10s | %-10s\n",
+        "%-10s | %-8s | %-8s | %-10s | %-10s\n",
         "BODY",
         "STATUS",
         "ALTITUDE",
