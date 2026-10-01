@@ -7,4 +7,4 @@ Compile on Android with:
 clang  --target=aarch64-linux-android -Oz -flto planets.c -o planets -lm
 <br><br>
 
-<img width="1080" height="2400" alt="1001291767" src="https://github.com/user-attachments/assets/ecc71097-b2b9-438c-80f1-5333b1d35366" />
+<img width="720" height="1604" alt="1000108356" src="https://github.com/user-attachments/assets/0dd302b7-efbf-4cc8-b84c-725cf75e3ae8" />
